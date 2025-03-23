@@ -13,10 +13,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical%20enginnering%20student;Always%20learn%20more&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Biomedical Engineer Student with interst in programming field
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Flutter, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
+### ✨ **About Me**  
+🔹 **Biomedical Engineering Student** @ Cairo University (Graduating 2025)  
+🔹 Specializing in **AI, Machine Learning, and Deep Learning**  
+🔹 Experienced in **Computer Vision, NLP, and AI for Healthcare**  
+🔹 Passionate about **Building AI-Driven Solutions** for impactful applications  
+
+💡 **Always exploring new technologies and AI advancements**  
+☕ **Fun fact:** I believe great ideas start with a cup of tea!  
 
 ### Connect with Me :
 
@@ -27,15 +31,20 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+#### **🔹 Programming & AI**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)  
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)  
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)  
+
+#### **🔹 Web & Software Development**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter%20-05122A?style=flat&logo=Flutter)&nbsp;
 
 
 
