@@ -65,10 +65,6 @@
 
 <div align="center">
 
-![Ziyad's GitHub stats](./profile/stats.svg)
-
-![Top Langs](./profile/top-langs.svg)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ziyad-hf&theme=tokyonight&hide_border=true)
 
 </div>
